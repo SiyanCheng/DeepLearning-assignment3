@@ -8,14 +8,12 @@
 * Implementing Actor Critic Architecture
 
 
-# ! CHANGE BELOW HERE !
-
 ## Work on the assignment
 Please first clone or download as .zip file of this repository.
 
 Working on the assignment in a virtual environment is highly encouraged.
 
-In this assignment, you can use Python `3.7`.
+In this assignment, we recommend you use Python `3.7` (we briefly tested `3.6.8` and it seemed to work too).
 You will need to make sure that your virtualenv setup is of the correct version of python.
 We will be using *PyTorch* in this assignment.
 
